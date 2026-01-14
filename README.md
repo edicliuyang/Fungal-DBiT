@@ -24,8 +24,12 @@ This technology enables spatially resolved analysis of **host–fungal interacti
 
 ## 📁 Repository Contents
 
-- `python/` — Scripts and notebooks used in the fungal-DBiT data analysis pipeline  
+- `R analysis/` — Scripts and notebooks used in the fungal-DBiT data analysis pipeline  
 - `images/` — Figures and diagrams used in publications or presentations  
+- `Test_data/` — Include data for 50um resolution heart sample 
+- `Figure_Processing/` — Include matlab code to process image and generate postion.txt
+- `Rawdata_processing/` — Include .sh and .py code to process raw sequencing data
+
 
 ---
 
